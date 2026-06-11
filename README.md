@@ -1,3 +1,3 @@
 ## Hello
 
-I do not host my repositories on Github. Switched to a self-hosted instance of Forgejo. No link.
+I do not host my repositories on Github. Switched to platform that respects developers. No link.
